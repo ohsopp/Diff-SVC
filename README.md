@@ -1,2 +1,2 @@
 # Diff-SVC
-All references for Diffusion Singing Voice Conversion
+References for Diffusion Singing Voice Conversion
