@@ -96,4 +96,4 @@ save_dir란에 /content/drive/Mydrive/diff-svc/singer_name 경로명을 넣어�
 
 
 <h1> ✔ 결과 추론 </h1>
-(아직 작성 중)
+(작성 중)
