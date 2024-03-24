@@ -2,6 +2,8 @@
 
 References for Diffusion Singing Voice Conversion <br/><br/>
 
+<h4> Project Name: Mimicmic </h4>
+
 Youtube Link: https://youtu.be/RI_NoGU0Lro?si=bJ4-HkuyhJdpzefL <br/><br/>
 
 <h1> ✔ 모델 </h1>
