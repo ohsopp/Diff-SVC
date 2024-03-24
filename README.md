@@ -70,8 +70,7 @@ zip 데이터 파일을 압축해제하는 과정이다. singer_name란을 Shiki
 해당 스텝을 실행하기 이전에 구글 드라이브의 [내 드라이브] - [diff-svc] - [singer_name] 폴더 생성, 그 안에 singer_name.zip 이름으로 압축된 데이터셋 파일을 업로드 해둔다.
 
 *singer_name은 literally singer_name이 아닌 앞서 변경한 singer_name란이다.
-<br/><br/><br/>
- 
+<br/><br/>
 
 <h3> Training Options/Parameters </h3>
 
@@ -83,7 +82,7 @@ save_dir란에 /content/drive/Mydrive/diff-svc/singer_name 경로명을 넣어�
 
 저장된 모델이 있고 그 모델의 학습을 이어서 수행하려면 resume_training_from_ckpt를 체크하고 해당 모델의 .ckpt파일 경로를 넣어준다. 다른 새로운 모델을 학습하는 것이라면 체크해제한다.
 
-<br/><br/>
+<br/>
 <h3> Training </h3>
 
 학습을 진행하는 스텝이다. 앞서 적어놓았듯 2000번째마다 모델이 최대 10개까지 저장된다. 데이터셋이 길지 않다면 높은 step은 큰 효과가 없다. 1시간 남짓의 데이터셋이라면 80000 step에서 120000 step 사이 정도로 학습한 모델이 괜찮다.
